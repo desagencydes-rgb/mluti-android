@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.tp5.calculator"
     compileSdk 34
 
     defaultConfig {
